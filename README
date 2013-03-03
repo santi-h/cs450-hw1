@@ -1,0 +1,13 @@
+web client application to retrieve web pages using HTTP
+I.e., a simplified version of wget
+
+usage: ./hw1 <address>
+example: ./hw1 www.github.com
+project description: http://www.cs.uic.edu/bin/view/CS450/Homework1
+
+
+
+score: 7/7
+
+
+
